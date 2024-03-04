@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @Eriquito00
+# Hello, I'm @Eriquito00
 
 ### I am interested in developing artificial intelligence.
 
