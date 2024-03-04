@@ -1,7 +1,5 @@
-<center>👋 Hello, I'm @Eriquito00</center>
-
 <center>
-# Mi Título Centrado
+# 👋 Hello, I'm @Eriquito00
 </center>
 
 - 👀 I am interested in developing artificial intelligence
