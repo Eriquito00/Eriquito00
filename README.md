@@ -1,4 +1,4 @@
-<center> 👋 Hello, I'm @Eriquito00 </center>
+<center>👋 Hello, I'm @Eriquito00</center>
 
 - 👀 I am interested in developing artificial intelligence
 - 🌱I am currently learning Python
