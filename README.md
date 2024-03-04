@@ -1,4 +1,5 @@
 # |👋 Hello, I'm @Eriquito00|
+|--------------|-------------|
 
 - 👀 I am interested in developing artificial intelligence
 - 🌱I am currently learning Python
