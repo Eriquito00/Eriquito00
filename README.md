@@ -12,4 +12,5 @@
 ![HTML CSS JAVASCRIPT](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/htmlcssjs.png)
 
 ![C-SHARP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
-![HTML CSS JAVASCRIPT](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
+![UNITY](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
+![PYTHON](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png)
