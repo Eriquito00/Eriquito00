@@ -8,4 +8,4 @@
 
 ![Foto](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/inicio.png)
 
-[![Increíble Video](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/inicio.png)]([https://ruta/al/video/increible.mp4](https://www.youtube.com/watch?v=FQS992Jj0Mg&ab_channel=drgzn)https://www.youtube.com/watch?v=FQS992Jj0Mg&ab_channel=drgzn)
+[![Increíble Video](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/inicio.png)](https://www.youtube.com/watch?v=FQS992Jj0Mg&ab_channel=drgzn)
