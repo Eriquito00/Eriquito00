@@ -8,4 +8,4 @@
 
 ![Foto](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/inicio.png)
 
-[![Increíble Video](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/inicio.png)](https://www.youtube.com/watch?v=FQS992Jj0Mg&ab_channel=drgzn)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=FQS992Jj0Mg&ab_channel=drgzn?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
