@@ -8,4 +8,4 @@
 
 ![Foto](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/inicio.png)
 
-![JJK](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/TodoxTakada.gi)
+![JJK](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/TodoxTakada.gif)
