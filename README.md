@@ -12,6 +12,3 @@
 ![C-SHARP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
 ![UNITY](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
 ![PYTHON](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png)
-
-
-Acepto donaciones a través de PayPal. [¡Apóyame!](https://www.paypal.com/tudirección)
