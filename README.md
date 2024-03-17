@@ -23,17 +23,4 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&label=Total%20views&countColor=%23f47373&labelStyle=upper" alt="Visitors total">
   </p>
 </body>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@fujiwarachoki?theme=asoul" />
-</p>
-
-<div align="center">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
 </html>
