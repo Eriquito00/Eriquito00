@@ -6,7 +6,7 @@
 
 ♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario)](https://github.com/Eriquito00)
+[![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)](https://github.com/Eriquito00)
 
 ## Languages I know
 ![HTML CSS JAVASCRIPT](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png)
