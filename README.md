@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-    }
-    h1 {
-      font-size: 24px;
-    }
-    h2 {
-      font-size: 20px;
-    }
-    p {
-      font-size: 16px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
 </head>
 <body>
   <h1>🙋‍♂️ Hello, I'm <a href="https://github.com/Eriquito00">@Eriquito00</a></h1>
