@@ -7,12 +7,15 @@
 
   <h2>Languages I know</h2>
   <p>
-  <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png" alt="HTML">
-  <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/css.png" alt="CSS">
-  <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png" alt="C#">
-  <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png" alt="Unity">
-  <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png" alt="Python">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png" alt="HTML">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/css.png" alt="CSS">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png" alt="JavaScript">
+  </p>
+  
+  <p>
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png" alt="C#">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png" alt="Unity">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png" alt="Python">
   </p>
   
   <p>
