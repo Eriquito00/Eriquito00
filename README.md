@@ -36,6 +36,8 @@
   <tr>
     <th>Languages</th>
     <th>Engines</th>
+    <th>Web design</th>
+    <th>Operative Systems</th>
   </tr>
   <tr>
     <td>
@@ -46,37 +48,13 @@
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png" alt="Unity">
     </td>
-  </tr>
-  <tr>
-    
-  </tr>
-  <tr>
-    
-  </tr>
-  <tr>
-    <th>Web design</th>
-  </tr>
-  <tr>
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png" alt="HTML">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/css.png" alt="CSS">
     </td>
-  </tr>
-  <tr>
-    <th>Operative Systems</th>
-  </tr>
-  <tr>
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/windows.png" alt="Windows">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/linux.png" alt="Linux">
-    </td>
-  </tr>
-  <tr>
-    <th>Total visitors</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&label=Total%20views&countColor=%23f47373&labelStyle=upper" alt="Visitors total">
     </td>
   </tr>
 </table>
