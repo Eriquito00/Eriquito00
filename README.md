@@ -21,7 +21,7 @@
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png" alt="JavaScript">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png" alt="Unity">
+      <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.pn" alt="Unity">
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png" alt="HTML">
