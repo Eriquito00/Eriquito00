@@ -1,6 +1,6 @@
 </head>
 <body>
-  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil." alt="Inicio"> Hello, I'm <a href="https://github.com/Eriquito00">@Eriquito00</a></h1>
+  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> Hello, I'm <a href="https://github.com/Eriquito00">@Eriquito00</a></h1>
   <h3>💟 I am interested in developing artificial intelligence in the future.</h3>
   <h3>😊 I am currently learning Python.</h3>
   <h3>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h3>
