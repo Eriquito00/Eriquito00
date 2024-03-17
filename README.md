@@ -15,5 +15,5 @@
 ![UNITY](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
 ![PYTHON](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png)
 
-|![Visitors today](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&label=Views%20today&countColor=%232ccce4&labelStyle=upper)|![Visitors total](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&label=Total%20views&countColor=%23f47373&labelStyle=upper)|
-|--|--|
+![Visitors today](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&label=Views%20today&countColor=%232ccce4&labelStyle=upper) ![Visitors total](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&label=Total%20views&countColor=%23f47373&labelStyle=upper)
+
