@@ -1,7 +1,7 @@
 </head>
 <body>
-  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> Hi!</a></h1>
-  <h3> I am Eriquito00 and here in my profile you can see my work in diferent projects. </h3>
+  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </a></h1>
+  <h3> Hi I am Eriquito00 and here in my profile you can see my work in diferent projects. </h3>
   <h3>💟 I am interested in developing artificial intelligence in the future.</h3>
   <h3>😊 I am currently learning Python.</h3>
   <h3>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h3>
