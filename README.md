@@ -1,9 +1,9 @@
 </head>
 <body>
   <h1>🙋‍♂️ Hello, I'm <a href="https://github.com/Eriquito00">@Eriquito00</a></h1>
-  <p>💟 I am interested in developing artificial intelligence in the future.</p>
-  <p>😊 I am currently learning Python.</p>
-  <p>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</p>
+  <h4>💟 I am interested in developing artificial intelligence in the future.</h4>
+  <h4>😊 I am currently learning Python.</h4>
+  <h4>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h4>
 
   <h2>Languages I know</h2>
   <p>
