@@ -6,7 +6,7 @@
 
 ♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.
 
-[![Profile Views](https://gpvc.arturio.dev/tu-usuario)](https://github.com/Eriquito00)
+[![Profile Views](![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fraw.githubusercontent.com%2FEriquito00%2FEriquito00%2Fmain%2Freadme.md&labelColor=%2337d67a&countColor=%23d9e3f0&style=plastic&labelStyle=upper))](https://github.com/Eriquito00)
 
 ## Languages I know
 ![HTML CSS JAVASCRIPT](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png)
