@@ -1,5 +1,5 @@
 <body>
-  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio" width="50"> I am Eriquito00 </h1>
+  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
   <h3> Hi everyone, here in my profile you can see my work in diferent repositories.</h3>
   <h3></h3>
   <h4>💟 I am interested in developing artificial intelligence in the future.</h4>
