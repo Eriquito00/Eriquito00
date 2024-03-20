@@ -1,5 +1,5 @@
 <body>
-  <h1> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
+  <h1 align="center"> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
   <h3> Hi everyone, here in my profile you can see my work in diferent repositories.</h3>
   <h3></h3>
   <h4>💟 I am interested in developing artificial intelligence in the future.</h4>
@@ -34,11 +34,9 @@
   </tr>
 </table>
 
-<div style="text-align:center; display: flex; flex-direction: column; align-items: center;">
-  <h1 align="center">Support me</h1>
-  <a href="https://www.buymeacoffee.com/Eriquito00">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Eriquito00&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="250">
-  </a>
-</div>
+<h1 align="center">Support me</h1>
+<a href="https://www.buymeacoffee.com/Eriquito00">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Eriquito00&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="250">
+</a>
 
 </body>
