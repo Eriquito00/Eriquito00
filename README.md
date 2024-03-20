@@ -36,9 +36,7 @@
 
 <div style="text-align:center;">
   <h2 style="text-align:center;">Support me</h2>
-  <a href="https://www.buymeacoffee.com/eriquito00" style="display: block; margin: auto;">
-    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/coffee.png" alt="Buy Me A Coffee" width="250">
-  </a>
+  <a href="https://www.buymeacoffee.com/Eriquito00"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Eriquito00&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
 </body>
