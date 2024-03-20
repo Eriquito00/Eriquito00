@@ -35,7 +35,7 @@
 </table>
 
 <div style="text-align:center; display: flex; flex-direction: column; align-items: center;">
-  <h2 style="text-align:center;">Support me</h2>
+  <h2 align="center">Support me</h2>
   <a href="https://www.buymeacoffee.com/Eriquito00">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Eriquito00&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="250">
   </a>
