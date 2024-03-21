@@ -39,7 +39,7 @@
   </a>
 </div>
 
- <a href='http://www.freevisitorcounters.com'>www.freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=dd154980c57cdf84bddf07ce85063e90329d8230'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1162279/t/0"></script>
+<img src=" <a href='http://www.freevisitorcounters.com'>www.freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=3970ce68093974f6ae521635ebcb6212eefa276d'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1162280/t/0"></script>" alt="Visitor Count" />
 
 </body>
