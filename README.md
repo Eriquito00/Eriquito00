@@ -32,6 +32,8 @@
   </tr>
 </table>
 
+<img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter"></a>
+
 <h1 align="center">Support me</h1>
 <div align="center">
   <a href="https://www.buymeacoffee.com/Eriquito00">
