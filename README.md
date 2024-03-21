@@ -1,9 +1,9 @@
 <body>
   <h1 align="center"> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
-  <h3> Hi everyone, here in my profile you can see my work in diferent repositories.</h3>
-  <h4>💟 I am interested in developing artificial intelligence in the future.</h4>
-  <h4>😊 I am currently learning Python.</h4>
-  <h4>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h4>
+  <h4> Hi everyone, here in my profile you can see my work in diferent repositories.</h4>
+  <h5>💟 I am interested in developing artificial intelligence in the future.</h5>
+  <h5>😊 I am currently learning Python.</h5>
+  <h5>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h5>
 
   <h1 align="center">All I know</h1>
 <table align="center">
