@@ -1,6 +1,6 @@
 <body>
   <h1 align="center"> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
-  <h4 align="center"> Hi everyone, here in my profile you can see my work in diferent repositories.</h4>
+  <h3 align="center"> Hi everyone, here in my profile you can see my work in diferent repositories.</h3>
   
 <table align="center" style="height: 100vh;">
   <tr>
