@@ -5,6 +5,8 @@
   <h5 align="center">😊 I am currently learning Python.</h5>
   <h5 align="center">♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h5>
 
+<img align="center" src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter"></a>
+
 <table align="center">
   <tr>
     <th>Languages</th>
@@ -31,8 +33,6 @@
     </td>
   </tr>
 </table>
-
-<img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter"></a>
 
 <h1 align="center">Support me</h1>
 <div align="center">
