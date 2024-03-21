@@ -39,6 +39,6 @@
   </a>
 </div>
 
-<img src="http://www.freevisitorcounters.com"></script>" alt="Visitor Count" />
+<img src="http://www.freevisitorcounters.com" alt="Visitor Count" />
 
 </body>
