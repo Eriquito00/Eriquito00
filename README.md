@@ -2,7 +2,7 @@
   <h1 align="center"> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
   <h4 align="center"> Hi everyone, here in my profile you can see my work in diferent repositories.</h4>
   
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="align-items: center;">
     <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter">
 </div>
   
