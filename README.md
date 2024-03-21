@@ -39,7 +39,6 @@
   </a>
 </div>
 
-<img src=" <a href='http://www.freevisitorcounters.com'>www.freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=3970ce68093974f6ae521635ebcb6212eefa276d'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1162280/t/0"></script>" alt="Visitor Count" />
+<img src="http://www.freevisitorcounters.com"></script>" alt="Visitor Count" />
 
 </body>
