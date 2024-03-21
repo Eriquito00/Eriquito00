@@ -39,6 +39,8 @@
   </a>
 </div>
 
-<img src="http://www.freevisitorcounters.com" alt="Visitor Count" />
+<div id="sfcqsptwptfptpz3qhcx5qldresk261yf5a"></div>
+<script type="text/javascript" src="https://counter11.optistats.ovh/private/counter.js?c=qsptwptfptpz3qhcx5qldresk261yf5a&down=async" async></script>
+<br><a href="https://www.freecounterstat.com">website counter</a><noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter"></a></noscript>
 
 </body>
