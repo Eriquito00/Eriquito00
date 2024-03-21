@@ -7,7 +7,7 @@
   <h4>♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h4>
 
   <h2>All I know</h2>
-<table>
+<table align="center">
   <tr>
     <th>Languages</th>
     <th>Engines</th>
