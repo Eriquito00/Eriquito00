@@ -2,9 +2,13 @@
   <h1 align="center"> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
   <h4 align="center"> Hi everyone, here in my profile you can see my work in diferent repositories.</h4>
   
-  <table align="center">
-    <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter">
-  </table>
+<table align="center">
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter">
+    </td>
+  </tr>
+</table>
   
   <h5 align="center">💟 I am interested in developing artificial intelligence in the future.</h5>
   <h5 align="center">😊 I am currently learning Python.</h5>
