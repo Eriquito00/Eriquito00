@@ -5,12 +5,7 @@
 <table align="center" style="height: 100vh;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-      <center>
-          <img src="//widget.supercounters.com/ssl/ctr_img.php?id=1687366&amp;nc6=6" style="border:0; display: block;">
-          <noscript>
-          <a href="http://www.supercounters.com/">free online counter</a>
-        </noscript>
-      </center>
+      
     </td>
   </tr>
 </table>
