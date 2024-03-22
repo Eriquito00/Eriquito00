@@ -54,5 +54,7 @@
 
 [![Estadísticas de GitHub de Eriquito00 - Estilo compacto](https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&theme=dark&layout=compact)](https://github.com/Eriquito00/github-readme-stats)
 
+[![Estadísticas de GitHub de Eriquito00 - Dark](https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark)](https://github.com/Eriquito00/github-readme-stats)
+
 
 </body>
