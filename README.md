@@ -48,9 +48,6 @@
   </a>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-
-
-
+[![Estadísticas de GitHub de Eriquito00 - Dark](https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&theme=dark)](https://github.com/Eriquito00/github-readme-stats)
 
 </body>
