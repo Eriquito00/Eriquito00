@@ -5,7 +5,7 @@
 <table align="center" style="height: 100vh;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-      <a href="" title="page counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=6fazcwjnwk2jm5syudrj4eq6c6bf7pr8" border="0" title="page counter" alt="page counter"></a>
+      <a href="https://github.com/Eriquito00/" title="page counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=6fazcwjnwk2jm5syudrj4eq6c6bf7pr8" border="0" title="page counter" alt="page counter"></a>
     </td>
   </tr>
 </table>
