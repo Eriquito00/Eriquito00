@@ -5,7 +5,9 @@
 <table align="center" style="height: 100vh;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-      <a href="https://github.com/Eriquito00/" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=s7137by6u4sjaxbr5gp65w3sn77hxkk3" border="0" title="free hit counter" alt="free hit counter"></a>
+      <center>
+        <script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1687366,6,6);</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+      </center>
     </td>
   </tr>
 </table>
