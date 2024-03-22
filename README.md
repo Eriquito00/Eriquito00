@@ -5,7 +5,7 @@
 <table align="center" style="height: 100vh;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-      <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=qsptwptfptpz3qhcx5qldresk261yf5a" border="0" title="website counter" alt="website counter">
+      <img src="" border="0" title="website counter" alt="website counter">
     </td>
   </tr>
 </table>
