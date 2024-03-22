@@ -5,7 +5,7 @@
 <table align="center" style="height: 100vh;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-      <a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=s7137by6u4sjaxbr5gp65w3sn77hxkk3" border="0" title="free hit counter" alt="free hit counter"></a>
+      <a href="https://github.com/Eriquito00/" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=s7137by6u4sjaxbr5gp65w3sn77hxkk3" border="0" title="free hit counter" alt="free hit counter"></a>
     </td>
   </tr>
 </table>
