@@ -4,9 +4,9 @@
  
 <table align="center" style="height: 100vh;">
   <tr>
-    <td style="vertical-align: middle; text-align: center;">
-      
-    </td>
+    <a href="https://github.com/Eriquito00/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark">
+    </a>
   </tr>
 </table>
   
@@ -47,9 +47,5 @@
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Eriquito00&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="250">
   </a>
 </div>
-
-<a href="https://github.com/Eriquito00/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark">
-</a>
 
 </body>
