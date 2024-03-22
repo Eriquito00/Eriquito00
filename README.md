@@ -48,6 +48,8 @@
   </a>
 </div>
 
-[![Estadísticas de GitHub de Eriquito00 - Dark](https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&theme=dark)](https://github.com/Eriquito00/github-readme-stats)
+<a href="https://github.com/Eriquito00/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark">
+</a>
 
 </body>
