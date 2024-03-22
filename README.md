@@ -6,7 +6,10 @@
   <tr>
     <td style="vertical-align: middle; text-align: center;">
       <center>
-        <script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1687366,6,6);</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+          <img src="//widget.supercounters.com/ssl/ctr_img.php?id=1687366&amp;nc6=6" style="border:0; display: block;">
+          <noscript>
+          <a href="http://www.supercounters.com/">free online counter</a>
+        </noscript>
       </center>
     </td>
   </tr>
