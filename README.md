@@ -2,7 +2,7 @@
   <h1 align="center"> <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/gif/perfil.gif" alt="Inicio"> I am Eriquito00 </h1>
   <h3 align="center"> Hi everyone, here in my profile you can see my work in diferent repositories.</h3>
  
-  <div style="text-align: center;">
+  <div align="center">
     <a href="https://github.com/Eriquito00/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark">
     </a>
