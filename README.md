@@ -4,9 +4,9 @@
  
   <div align="center">
     <a href="https://github.com/Eriquito00/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark">
+        <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark" width="150">
     </a>
-</div>
+  </div>
   
   <h5 align="center">💟 I am interested in developing artificial intelligence in the future.</h5>
   <h5 align="center">😊 I am currently learning Python.</h5>
