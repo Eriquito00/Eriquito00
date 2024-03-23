@@ -3,7 +3,7 @@
   <h3 align="center"> Hi everyone, here in my profile you can see my work in diferent repositories.</h3>
  
   <div align="center">
-    <a href="https://github.com/Eriquito00/github-readme-stats">
+    <a>
         <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark" width="400">
     </a>
   </div>
