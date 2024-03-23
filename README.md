@@ -4,7 +4,7 @@
  
   <div align="center">
     <a href="https://github.com/Eriquito00/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark" width="500">
+        <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark" width="400">
     </a>
   </div>
   
