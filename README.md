@@ -5,6 +5,7 @@
   <div align="center">
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark" width="400">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
     </a>
   </div>
   
