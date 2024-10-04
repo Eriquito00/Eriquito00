@@ -7,10 +7,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Eriquito00&show_icons=true&icon=github&theme=dark" alt="Estadísticas de GitHub de Eriquito00 - Dark" width="400">
     </a>
   </div>
-  
-  <h5 align="center">💟 I am interested in developing artificial intelligence in the future.</h5>
-  <h5 align="center">😊 I am currently learning Python.</h5>
-  <h5 align="center">♾️ I am looking to collaborate on small projects to be able to learn more and be of more help.</h5>
 
 <table align="center">
   <tr>
