@@ -41,5 +41,5 @@
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Eriquito00&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width="300">
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Contador de visitas">
+<img src="https://komarev.com/ghpvc/?Eriquito00&color=green" alt="Contador de visitas">
 </body>
