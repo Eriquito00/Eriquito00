@@ -19,6 +19,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png" alt="Python">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png" alt="C#">
+      <br>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png" alt="JS">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/java.png" alt="Java">
     </td>
@@ -28,6 +29,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png" alt="HTML">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/css.png" alt="CSS">
+      <br>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/xml.png" alt="XML">
     </td>
     <td>
