@@ -16,7 +16,7 @@
     <th>Operative Systems</th>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png" alt="Python">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png" alt="C#">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png" alt="JS">
