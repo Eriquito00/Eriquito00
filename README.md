@@ -19,6 +19,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png" alt="C#">
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png" alt="JS">
+      <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/java.png" alt="Java">
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png" alt="Unity">
