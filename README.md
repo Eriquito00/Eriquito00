@@ -2,7 +2,7 @@
 <h3 align="center">Studing Web Application Development</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/@eriquito00?theme=asoul" />
+  <img src="https://count.getloli.com/@eriquito00?name=eriquito00&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=1" />
 </p>
 
 - 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI)
