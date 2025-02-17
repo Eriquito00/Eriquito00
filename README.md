@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eriquito00</h1>
 <h3 align="center">Studing Web Application Development</h3>
 
-<p align="center">
-  <img src="https://count.getloli.com/@eriquito00?name=eriquito00&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=1" />
-</p>
-
 - 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI)
 
 - 🌱 I’m currently learning **Java**
@@ -51,6 +47,10 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@eriquito00?name=eriquito00&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=1" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eriquito00&show_icons=true&theme=dark&hide_border=true&locale=es" alt="eriquito00" /></p>
