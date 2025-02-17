@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eriquito00</h1>
-<h3 align="center">Student of Web Application Development</h3>
+<h3 align="center">Studing Web Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriquito00&label=Views&color=006eff&style=flat-square" alt="eriquito00" /> </p>
 
