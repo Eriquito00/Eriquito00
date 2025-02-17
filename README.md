@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eriquito00</h1>
 <h3 align="center">Studing Web Application Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eriquito00&label=Views&color=006eff&style=flat-square" alt="eriquito00" /> </p>
+<p align="center">
+  <img src="https://count.getloli.com/@eriquito00?theme=asoul" />
+</p>
 
 - 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI)
 
