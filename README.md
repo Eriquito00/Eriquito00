@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and MySQL**
 
 - 👯 I’m looking to collaborate on **little projects to have a little bit more experience**
 
