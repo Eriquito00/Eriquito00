@@ -51,7 +51,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eriquito00&show_icons=true&theme=dark&hide_border=true&locale=es" alt="eriquito00" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eriquito00&show_icons=true&locale=en&layout=compact&theme=dark" alt="ikerby341" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eriquito00&show_icons=true&locale=en&layout=compact&theme=dark" alt="ikerby341" /></p>
 
 <p align="center">
   <img src="https://count.getloli.com/@eriquito00?name=eriquito00&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=0" />
