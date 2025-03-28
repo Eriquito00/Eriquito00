@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eriquito00 👋</h1>
 <h3 align="center">Studing Web Application Development</h3>
 
-- 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI)
+- 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI), [ProyectoAplicacionEscalada](https://github.com/Eriquito00/ProyectoAplicacionEscalada)
 
 - 🌱 I’m currently learning **Java and MySQL**
 
