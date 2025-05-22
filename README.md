@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI) and [MyAnimeListAPIConsuming](https://github.com/WysperOtaku/MyAnimeListAPIConsuming)
 
-- 🌱 I’m currently learning **Java and MySQL**
+- 🌱 I’m currently learning **Java, MySQL and MongoDB**
 
 - 👯 I’m looking to collaborate on **little projects to have a little bit more experience**
 
