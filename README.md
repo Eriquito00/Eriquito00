@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Eriquito00 👋</h1>
 <h3 align="center">Studing Web Application Development</h3>
 
-- 🔭 I’m currently working on [Atacando_PokeAPI](https://github.com/Eriquito00/Atacando_PokeAPI) and [MyAnimeListAPIConsuming](https://github.com/WysperOtaku/MyAnimeListAPIConsuming)
+- 🔭 I’m currently working on [gestor-de-proyectos](https://github.com/Eriquito00/gestor-de-proyectos)
 
-- 🌱 I’m currently learning **Java, MySQL and MongoDB**
+- 🌱 I’m currently learning **React, Java and MySQL**
 
 - 👯 I’m looking to collaborate on **little projects to have a little bit more experience**
 
