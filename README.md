@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! My name is Eriquito00 and I'm a Web Developer, from Spain.</h2>
+<h1 align="center">Hi 👋! My name is Eriquito00</h1>
+
+###
+
+<h3 align="center">I am a Web Developer interested on AI and Big Data development</h3>
 
 ###
 
