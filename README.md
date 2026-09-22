@@ -53,27 +53,34 @@
 
 ---
 
-## 🔎 SEO & Digital Marketing
+<details>
+  <summary> SEO & Digital Marketing </summary>
+  
+  ## 🔎 SEO & Digital Marketing
 
-Experiencia optimizando aplicaciones web para buscadores mediante estrategias SEO técnicas y de contenido. Familiarizado con la implementación de datos estructurados (Schema.org, JSON-LD), gestión de sitemaps, keyword research, optimización on-page y auditorías técnicas SEO. Experiencia práctica con Google Search Console, Google Analytics 4, Google Ads y SEMrush para monitorizar rendimiento, analizar visibilidad y mejorar el tráfico orgánico.
+  Experiencia optimizando aplicaciones web para buscadores mediante estrategias SEO técnicas y de contenido. Familiarizado con la implementación de datos estructurados (Schema.org, JSON-LD), gestión de sitemaps, keyword research, optimización on-page y auditorías técnicas SEO. Experiencia práctica con Google Search Console, Google Analytics 4, Google Ads y SEMrush para monitorizar rendimiento, analizar visibilidad y mejorar el tráfico orgánico.
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+    <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white">
+    <img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white">
+  </p>
+  
+</details>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white">
-<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white">
-</p>
+<details>
+  <summary>Top project REKKO</summary>
 
----
+  ## 🐾 REKKO
 
-## 🐾 REKKO
-
-Red social de recomendaciones de anime que ayuda a los usuarios a descubrir qué ver a continuación, con recomendaciones personalizadas y contenido dirigido por la comunidad.
-
-**Stack:**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,vite,nodejs,express,postgres,prisma,firebase,supabase,npm,vercel,figma,github,vsc">
-
-<a href="https://github.com/Rekko-Lists">
-  <img src="https://img.shields.io/badge/REKKO_Organization-181717?style=for-the-badge&logo=github">
-</a>
+  Red social de recomendaciones de anime que ayuda a los usuarios a descubrir qué ver a continuación, con recomendaciones personalizadas y contenido dirigido por la comunidad.
+  
+  **Stack:**
+  
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,vite,nodejs,express,postgres,prisma,firebase,supabase,npm,vercel,figma,github,vsc">
+  
+  <a href="https://github.com/Rekko-Lists">
+    <img src="https://img.shields.io/badge/REKKO_Organization-181717?style=for-the-badge&logo=github">
+  </a>
+</details>
